@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "作物収穫",
+        "video": "",
+        "skill": "クワを使える、力持ち",
+        "content": "白菜の収穫を手伝ってください"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.33313594621404,
+          35.19299859063587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "コムス移動",
+        "video": "",
+        "skill": "運転免許証",
+        "content": "大原駅にあるコムスを道の駅まで移動してください"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3320191694825,
+          35.16336958581184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "野菜のおすそ分け",
+        "video": "",
+        "skill": "",
+        "content": "大根、白菜が余っています。欲しい方は来てください"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.35413190172467,
+          35.177772188969776
+        ]
+      }
+    }
+  ]
+}
